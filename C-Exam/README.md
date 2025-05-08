@@ -20,3 +20,12 @@
 
 ![que5](ss/mobiles.PNG)
 
+# Implement a C program that writes a sentence into a file, read it, and writes into another file.
+
+![file](ss/file.PNG)
+
+# file1
+![file](ss/file.PNG)
+# file2
+![file](ss/file.PNG)
+
