@@ -25,7 +25,7 @@
 ![file](ss/file.PNG)
 
 # file1
-![file](ss/file.PNG)
+![file](ss/file1.PNG)
 # file2
-![file](ss/file.PNG)
+![file](ss/file2.PNG)
 
